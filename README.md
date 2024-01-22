@@ -1,3 +1,6 @@
+![Custom WordPress Login](thumbjpg)
+
+
 **Repository Description:**
 
 ## Custom WordPress Login and Redirect Code
