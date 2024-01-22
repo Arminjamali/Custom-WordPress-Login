@@ -1,4 +1,4 @@
-![Custom WordPress Login](thumbjpg)
+![Custom WordPress Login](/thumbjpg)
 
 
 **Repository Description:**
