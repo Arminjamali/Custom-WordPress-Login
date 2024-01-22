@@ -1,4 +1,4 @@
-![Custom WordPress Login](/thumbjpg)
+![Custom WordPress Login](https://github.com/Arminjamali/Custom-WordPress-Login/blob/main/thumb.jpg)
 
 
 **Repository Description:**
